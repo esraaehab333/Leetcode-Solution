@@ -129,6 +129,7 @@
     <ClCompile Include="263. Ugly Number.cpp" />
     <ClCompile Include="35. Search Insert Position.cpp" />
     <ClCompile Include="3783. Mirror Distance of an Integer.cpp" />
+    <ClCompile Include="728. Self Dividing Numbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
