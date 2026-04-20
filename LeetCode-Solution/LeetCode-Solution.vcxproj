@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1015. Smallest Integer Divisible by K.cpp" />
     <ClCompile Include="1502. Can Make Arithmetic Progression From Sequence.cpp" />
     <ClCompile Include="2078. Two Furthest Houses With Different Colors.cpp" />
     <ClCompile Include="263. Ugly Number.cpp" />

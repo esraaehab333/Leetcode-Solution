@@ -39,5 +39,8 @@
     <ClCompile Include="263. Ugly Number.cpp">
       <Filter>Source Files\Problems\Math</Filter>
     </ClCompile>
+    <ClCompile Include="1015. Smallest Integer Divisible by K.cpp">
+      <Filter>Source Files\Problems\Math</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

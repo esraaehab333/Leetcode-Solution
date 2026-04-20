@@ -18,10 +18,3 @@ public:
         return n == 1 ? true : false;
     }
 };
-int main() {
-
-    Solution sol;
-    vector<int> arr = { 1,8,3,8,3 };
-    cout << sol.isUgly(14);
-    return 0;
-}
