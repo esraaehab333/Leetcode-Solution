@@ -16,10 +16,3 @@ public:
         return true;
     }
 };
-int main() {
-
-    Solution sol;
-    vector<int> arr = { 1,3,8,9 };
-    cout << sol.canMakeArithmeticProgression(arr);
-    return 0;
-}

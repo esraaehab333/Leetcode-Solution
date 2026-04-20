@@ -33,11 +33,8 @@
     <ClCompile Include="1502. Can Make Arithmetic Progression From Sequence.cpp">
       <Filter>Source Files\Problems\Array</Filter>
     </ClCompile>
-    <ClCompile Include="69. Sqrt.cpp">
-      <Filter>Source Files\Problems\Math</Filter>
+    <ClCompile Include="2078. Two Furthest Houses With Different Colors.cpp">
+      <Filter>Source Files\Problems\Array</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="69. Sqrtx" />
   </ItemGroup>
 </Project>
