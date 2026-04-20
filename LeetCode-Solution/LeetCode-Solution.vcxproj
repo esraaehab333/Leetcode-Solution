@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="1502. Can Make Arithmetic Progression From Sequence.cpp" />
     <ClCompile Include="2078. Two Furthest Houses With Different Colors.cpp" />
+    <ClCompile Include="263. Ugly Number.cpp" />
     <ClCompile Include="35. Search Insert Position.cpp" />
     <ClCompile Include="3783. Mirror Distance of an Integer.cpp" />
   </ItemGroup>
